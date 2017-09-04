@@ -3,7 +3,9 @@ Simple boilerplate to start ReactJS
 
 ## How to setup
 **Step 1:** git clone this repo:
+
 **Step 2:** cd to the cloned repo:
+
 **Step 3:** Install the Application with `npm install`
 
 
